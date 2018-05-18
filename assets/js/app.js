@@ -45,7 +45,7 @@ $(document).ready(function(){
 // Si su selección es distinta a la correcta, se activa el modal que nos muestra una imagen y audio de Incorrecto
     }else if($(".trueQuestion2").hasClass('inCorrect') || $(".falseQuestion1").hasClass('inCorrect') || $(".falseQuestion3").hasClass('inCorrect')){
     	  $("#modalAnswer").append('<div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-hidden="true"><div class="modal-dialog">'+    
-        '<img src="assets/images/incorrecto.png"><audio src="assets/images/incorrecto.mp3" autoplay="autoplay"></audio></div></div>');
+        '<img class="imageIncorrecto" src="assets/images/incorrecto.png"><audio src="assets/images/incorrecto.mp3" autoplay="autoplay"></audio></div></div>');
     }else{
 // Si no selección alguna de las dos alternativa en cualquiera de las preguntas nos muestra un alert en pantalla
     	alert('Debe responder todas las preguntas');
