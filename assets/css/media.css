@@ -3,7 +3,7 @@
 		max-height: 100vh;
 	}
 	.title{
-		font-size: 1.5em;
+		font-size: 2em;
 	}
   .colMedia{
   	border-right: 3px dashed #14AAE3;  
@@ -15,8 +15,8 @@
     top: 2.5em;
   }
   .image{
-  	width: 50px;
-  	height: 20px;
+  	width: 200px;
+  	height: 100px;
   	position: relative;
   	bottom: 3em;
   }
