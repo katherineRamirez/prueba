@@ -11,7 +11,7 @@
     position: relative;
     top: 2.5em;
   }
-  .imageCorrecto{
+  .imageCorrecto, .imageIncorrecto{
   	width: 50px;
   	height: 20px;
   	position: relative;
