@@ -1,6 +1,6 @@
 @media (max-width: 990px) { 
 	body{
-		max-height: 100vh;
+		height: 130vh;
 	}
 	.title{
 		font-size: 2em;
