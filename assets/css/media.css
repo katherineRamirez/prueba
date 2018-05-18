@@ -1,0 +1,11 @@
+@media (max-width: 990px) { 
+  .colMedia{
+  	border-right: 3px dashed #14AAE3;  
+    border-bottom:  3px dashed #14AAE3;  
+    height: 200px;
+  }
+  .validate{
+    position: relative;
+    top: 2.5em;
+  }
+ }

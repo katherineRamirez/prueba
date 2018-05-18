@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header{
+  background: #14AAE3;
+  color: #fff;
+}
+.title{
+  margin: 2em;
+}
+.questions{
+  color: #14AAE3;
+  margin-top: 1.5em;
+}
+ 
+.col{
+  border-right: 3px dashed #14AAE3;  
+  height: 250px;
+}
+.validate{
+  margin-top: 4em;
+}
+button{
+  padding: 0.20em auto;
+  width: 8em;
+  display: inline-block;
+  position: relative;
+  top: 3em;
+  font-size: 1.5em;
+  background: #187496;
+  color: #fff;
+}
+.buttonFalse{
+  margin-top: 0.50em;
+}
+.btnQuestion3{
+  position: relative;
+  bottom: 2em;
+}
+li{
+  list-style: none;
+}
+.color{
+  background: green;
+}
+.modal-dialog img{
+  margin-top: 17em;
+}
