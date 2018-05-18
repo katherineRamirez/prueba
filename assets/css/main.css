@@ -3,6 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{
+  width: 100%;
+  height: 100vh;
+}
 header{
   background: #14AAE3;
   color: #fff;
