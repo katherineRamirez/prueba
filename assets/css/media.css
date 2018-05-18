@@ -1,6 +1,6 @@
 @media (max-width: 990px) { 
 	.title{
-		font-size: 1em;
+		font-size: 0.30em;
 	}
   .colMedia{
   	border-right: 3px dashed #14AAE3;  
@@ -12,8 +12,8 @@
     top: 2.5em;
   }
   .imageCorrecto{
-  	width: 100px;
-  	height: 30px;
+  	width: 50px;
+  	height: 20px;
   	position: relative;
   	bottom: 3em;
   }
